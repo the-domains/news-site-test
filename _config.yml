@@ -1,0 +1,14 @@
+layout_spectrum: 0.024542783154174685
+typography_spectrum: 0.5798939710948616
+color:
+  brandStrength: 0.23883199715055525
+  lightness: 0.2746571837924421
+  saturation: 0.8779970332980156
+  rhythmicContrast: 0.24829027871601284
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: News Site Test
